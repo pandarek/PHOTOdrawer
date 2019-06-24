@@ -1,8 +1,8 @@
 # PHOTOdrawer
-Skrypt do porządkowania zdjęć, głownie z telefonów
- Domyślny folder w którym należy umieścić pliki to "PHOTOdrawerIN"
- Domyślny folder który zostanie utworzony i do którego zostaną pliki przeniesione "PHOTOdrawerOUT"
- Do działania potrzeby jest program exiftool do pobierania informacji EXIF oraz jq do parsowania danych JSON
+Skrypt do porządkowania zdjęć, głownie z telefonów<br>
+ Domyślny folder w którym należy umieścić pliki to "PHOTOdrawerIN"<br>
+ Domyślny folder który zostanie utworzony i do którego zostaną pliki przeniesione "PHOTOdrawerOUT"<br>
+ Do działania potrzeby jest program exiftool do pobierania informacji EXIF oraz jq do parsowania danych JSON<br>
 <br>
  Format porządkowania plików:<br>
  <ul>
