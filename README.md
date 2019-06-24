@@ -5,21 +5,31 @@ Skrypt do porządkowania zdjęć, głownie z telefonów
  Do działania potrzeby jest program exiftool do pobierania informacji EXIF oraz jq do parsowania danych JSON
 <br>
  Format porządkowania plików:<br>
- 2010<br>
-   2010-01-01<br>
-   2010-02-03<br>
-   ...<br>
- 2011<br>
-   ...<br>
-
+ <ul>
+ <li>2010</li>
+  <ul>
+   <li>2010-01-01</li>
+   <li>2010-02-03</li>
+   <li>...</li>
+  </ul>
+ <li>2011</li>
+ <ul>
+   <li>...</li>
+  </ul>
+</ul>
  Format porządkowania plików, włączona opcja GPS:<br>
- 2010 Polska<br>
-   2010-01-01 Poznań<br>
-   2010-02-03 Wrocław<br>
-   ...<br>
- 2011 Wielka Brytania<br>
-   ...<br>
-
+  <ul>
+ <li>2010 Polska</li>
+  <ul>
+   <li>2010-01-01 Poznań</li>
+   <li>2010-02-03 Wrocław</li>
+   <li>...</li>
+  </ul>
+ <li>2011 Wielka Brytania</li>
+ <ul>
+   <li>...</li>
+  </ul>
+</ul>
  Opcje:<br>
  -h, -? pomoc, która właśnie została wyświetlona<br>
  -d pliki źródłowe zostaną usunięte<br>
