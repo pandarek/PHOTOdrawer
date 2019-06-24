@@ -5,7 +5,7 @@ Skrypt do porządkowania zdjęć, głownie z telefonów
  Do działania potrzeby jest program exiftool do pobierania informacji EXIF oraz jq do parsowania danych JSON
 
  Format porządkowania plików:
- 2010
+ 2010<br>
    2010-01-01
    2010-02-03
    ...
