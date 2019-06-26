@@ -34,7 +34,7 @@ help () {
  Opcje:
  -h, -? pomoc, która właśnie została wyświetlona
  -d pliki źródłowe zostaną usunięte
- -g sprawdzanie danych GPS i dadanie do nazwy folderu
+ -g sprawdzanie danych GPS i dadanie do nazwy folderu miejsca wykonania zdjęcia
  -i [nazwa floderu] własny folder źródłowy
  -o [nazwa floderu] własny folder docelowy
   -l zapis log'u do pliku
