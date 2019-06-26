@@ -33,7 +33,7 @@ Skrypt do porządkowania zdjęć, głownie z telefonów<br>
  Opcje:<br>
  -h, -? pomoc, która właśnie została wyświetlona<br>
  -d pliki źródłowe zostaną usunięte<br>
- -g sprawdzanie danych GPS i dadanie do nazwy folderu<br>
+ -g sprawdzanie danych GPS i dadanie do nazwy folderu miejsca wykonania zdjęcia<br>
  -i [nazwa floderu] własny folder źródłowy<br>
  -o [nazwa floderu] własny folder docelowy<br>
   -l zapis log'u do pliku<br>
